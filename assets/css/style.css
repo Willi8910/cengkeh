@@ -5522,7 +5522,17 @@ section.wn_contact_area {
 
 
 
+.hover-effect {
+transition: all 0.3s ease-in-out;
+}
 
+.hover-effect:hover {
+transform: translateY(-1rem);
+}
+.floating-icon{
+    font-size: 55px;
+    color: #519f10;
+}
 
 
 
